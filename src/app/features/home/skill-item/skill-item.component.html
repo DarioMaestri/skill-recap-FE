@@ -1,0 +1,7 @@
+<div class="dropup">
+    <button class="dropbtn" name="{{ skills[0].name }}" type="button">{{ skills[0].name }}</button>
+    <div class="dropup-content">
+        <app-dropup class="dropup-content" [skills]="skills" (onChangeSkill)="onChange($event)">
+        </app-dropup>
+    </div>
+</div>

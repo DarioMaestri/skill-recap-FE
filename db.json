@@ -1,0 +1,115 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "name": "Angular",
+            "version": "JS"
+        },
+        {
+            "id": "2",
+            "name": "Angular",
+            "version": "6"
+        },
+        {
+            "id": "3",
+            "name": "Angular",
+            "version": "11"
+        },
+        {
+            "id": "6",
+            "name": "SpringBoot",
+            "version": "2.4.5"
+        },
+        {
+            "id": "7",
+            "name": "SpringBoot",
+            "version": "2.5.0-SNAPSHOT"
+        },
+        {
+            "id": "4",
+            "name": "Java",
+            "version": "1.8"
+        },
+        {
+            "id": "5",
+            "name": "Java",
+            "version": "1.11"
+        },
+        {
+            "id": "8",
+            "name": "Postman"
+        },
+        {
+            "id": "9",
+            "name": "Hibernate",
+            "version": "5.0"
+        },
+        {
+            "id": "10",
+            "name": "Hibernate",
+            "version": "5.4"
+        },
+        {
+            "id": "11",
+            "name": "JavaScript",
+            "version": "ES1"
+        },
+        {
+            "id": "12",
+            "name": "JavaScript",
+            "version": "ES5"
+        },
+        {
+            "id": "13",
+            "name": "JavaScript",
+            "version": "ES6"
+        },
+        {
+            "id": "14",
+            "name": "Go",
+            "version": "1.8"
+        },
+        {
+            "id": "15",
+            "name": "Go",
+            "version": "1.16"
+        },
+        {
+            "id": "16",
+            "name": "IntelliJ IDEA"
+        },
+        {
+            "id": "17",
+            "name": "Eclipse"
+        },
+        {
+            "id": "18",
+            "name": "Insomnia"
+        },
+        {
+            "id": "19",
+            "name": "Windows",
+            "version": "XP"
+        },
+        {
+            "id": "20",
+            "name": "Windows",
+            "version": "10"
+        },
+        {
+            "id": "21",
+            "name": "Windows",
+            "version": "Vista"
+        },
+        {
+            "id": "22",
+            "name": "NodeJs",
+            "version": "16"
+        },
+        {
+            "id": "23",
+            "name": "NodeJs",
+            "version": "17"
+        }
+    ]
+}

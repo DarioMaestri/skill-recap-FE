@@ -1,0 +1,4 @@
+<div *ngFor="let skill of skills" class="element">
+    <label><input type="checkbox" name="{{ skill.version }}" [checked]="skill.known" (change)="onChange(skill)" />{{
+        skill.version }}</label>
+</div>

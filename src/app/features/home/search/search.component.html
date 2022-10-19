@@ -1,0 +1,9 @@
+<div class="search-bar">
+    <app-search-box></app-search-box>
+</div>
+<div class="selected">
+    <app-selected [skillsObserved]="getSkillsSelected()" (onDeleteSkillVersion)="onChange($event)"></app-selected>
+</div>
+<div class="list">
+    <app-skill-list [skillsMap]="skillsMap" (onChangeSkill)="onChange($event)"></app-skill-list>
+</div>

@@ -1,0 +1,6 @@
+<ul class="skill-list">
+    <li *ngFor="let skills of skillsMap | keyvalue">
+        <app-skill-item [skills]="skills.value" (onChangeSkill)="onChange($event)">
+        </app-skill-item>
+    </li>
+</ul>

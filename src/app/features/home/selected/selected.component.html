@@ -1,0 +1,9 @@
+<div class="selected">
+    <div *ngFor="let skillMap of skillsMap | keyvalue" id="skillName">
+        {{ skillMap.key }}
+        <label class="version" for="skillName" *ngFor="let skill of skillMap.value">
+            {{ skill.version }}
+            <fa-icon [icon]="faTrashAlt" (click)="onDelete(skill)"></fa-icon>
+        </label>
+    </div>
+</div>

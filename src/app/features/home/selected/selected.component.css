@@ -1,0 +1,35 @@
+.selected {
+  display: flex;
+  flex-flow: wrap;
+  min-height: 50px;
+  padding: 5px;
+}
+
+#skillName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  text-indent: 10px;
+  min-height: 20px;
+  background-color: powderblue;
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.version {
+  padding: 5px 10px;
+}
+
+fa-icon {
+  color: darkcyan;
+}
+
+fa-icon:hover {
+  cursor: pointer;
+}
+
+fa-icon:active {
+  color: black;
+}
